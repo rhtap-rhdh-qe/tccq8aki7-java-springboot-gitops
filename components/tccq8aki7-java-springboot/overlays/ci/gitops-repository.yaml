@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: tccq8aki7-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/tccq8aki7-java-springboot-gitops
